@@ -116,6 +116,7 @@ void main() {
         System.out.println("Kamen: "+kamen);
         System.out.println("Stribo: "+stribro);
         System.out.println("Zelezo: "+zelezo);
+        System.out.println("Keramika: "+keramika);
 
     } catch (SQLException e) {
         throw new RuntimeException(e);
