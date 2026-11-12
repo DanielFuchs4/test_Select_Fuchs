@@ -105,6 +105,7 @@ void main() {
                     case "kámen": kamen++; break;
                     case "stříbro": stribro++; break;
                     case "železo": zelezo++; break;
+                    case "keramika": keramika++; break;
                 }
             }
         }
