@@ -12,7 +12,9 @@ void main() {
         System.out.println("-------------------------");
         System.out.println("");
 
-/*
+
+
+// Ukol 2
         System.out.println("Seznam nálezů:");
         System.out.println("");
         String dotazStariSelect = "SELECT Nazev, Material, Stari FROM nalezy ORDER BY stari DESC";
@@ -29,7 +31,7 @@ void main() {
 
 
 
-
+// Ukol 3
         System.out.print("Zadej materiál:");
         String mat = sc.nextLine();
         System.out.print("Zadej minimální hodnotu:");
@@ -57,8 +59,9 @@ void main() {
 
 
 
-*/
 
+
+// Ukol 4
         System.out.println("Zadej stát: ");
         String stat = sc.nextLine();
 
@@ -83,7 +86,7 @@ void main() {
 
 
 
-
+// Ukol 5
         String dotazPocetSelect = "SELECT Material FROM nalezy";
 
         int zlato = 0;
