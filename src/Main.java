@@ -62,6 +62,7 @@ void main() {
 
 
 // Ukol 4
+        /*
         System.out.println("Zadej stát: ");
         String stat = sc.nextLine();
 
@@ -82,7 +83,7 @@ void main() {
 
 
         System.out.println("");
-
+*/
 
 
 
